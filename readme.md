@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto es un fondo animado de bolas amarillas y azules haciendo un movimiento infinito hacia arriba
